@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research"
+title: "Working Papers"
 permalink: /current_research/
 author_profile: true
 ---
