@@ -1,22 +1,21 @@
 ---
 layout: archive
-title: "How do scientists cope with experimental failures?"
+title: "Research"
 permalink: /current_research/
 author_profile: true
 ---
 
-I am an Assistant Professor at the Graduate School of Science and Technology Policy at KAIST. My research revolves around the organization and sociology of science with a particular with a particular emphasis on crafting effective science policy. Prior to joining KAIST STP, I was a postdoctoral fellow at the Center of Science of Science and Innovation at Kellogg School of Management. I did my Ph.D. in Public Policy from the Georgia Institute of Technology and an MS in Statistics from the School of Industrial and Systems Engineering from the same institution. 
+How do scientists cope with experimental failures?
+======
+Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-My research involves understanding how the work organization of science and innovation are structured and how they in turn influence the rate and direction of research activities with the goal of providing effective science and technology policy. I try to integrate perspectives from various disciplines including the sociology of work, the sociology of science, and public policy. In addition to my primary focus, I am also interested in exploring the cultural evolution of science and inventions by leveraging large-scale digitized historical archives and advanced computational methods.
+Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
----
-layout: archive
-title: "How do scientists cope with experimental failures?"
-permalink: /current_research/
-author_profile: true
----
-
-I am an Assistant Professor at the Graduate School of Science and Technology Policy at KAIST. My research revolves around the organization and sociology of science with a particular with a particular emphasis on crafting effective science policy. Prior to joining KAIST STP, I was a postdoctoral fellow at the Center of Science of Science and Innovation at Kellogg School of Management. I did my Ph.D. in Public Policy from the Georgia Institute of Technology and an MS in Statistics from the School of Industrial and Systems Engineering from the same institution. 
-
-My research involves understanding how the work organization of science and innovation are structured and how they in turn influence the rate and direction of research activities with the goal of providing effective science and technology policy. I try to integrate perspectives from various disciplines including the sociology of work, the sociology of science, and public policy. In addition to my primary focus, I am also interested in exploring the cultural evolution of science and inventions by leveraging large-scale digitized historical archives and advanced computational methods.
-
+How do scientists cope with experimental failures?
+======
+1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
+1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
+1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
+1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
+1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
+1. Check status by going to the repository settings, in the "GitHub pages" section
