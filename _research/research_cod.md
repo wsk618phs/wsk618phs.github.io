@@ -1,11 +1,7 @@
 ---
-permalink: /
-title: "Welcome to my website"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+title: "How do scientists cope with data production failures?"
+collection: research
+permalink: /research/research_cod
 ---
 
 
