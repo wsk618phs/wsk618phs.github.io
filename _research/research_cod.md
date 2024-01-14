@@ -2,7 +2,15 @@
 title: "How do scientists cope with data production failures?"
 collection: research
 permalink: /research/research_cod
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+date: 2009-10-01
+venue: 'Journal 1'
+paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
+This paper is about the number 1. The number 2 is left for future work.
 
+[Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-I am an Assistant Professor at the Graduate School of Science and Technology Policy at KAIST. My research revolves around the organization and sociology of science with a particular with a particular emphasis on crafting effective science policy. Prior to joining KAIST STP, I was a postdoctoral fellow at the Center of Science of Science and Innovation at Kellogg School of Management. I did my Ph.D. in Public Policy from the Georgia Institute of Technology and an MS in Statistics from the School of Industrial and Systems Engineering from the same institution. My research involves understanding how the work organization of science and innovation are structured and how they in turn influence the rate and direction of research activities with the goal of providing effective science and technology policy. I try to integrate perspectives from various disciplines including the sociology of work, the sociology of science, and public policy. In addition to my primary focus, I am also interested in exploring the cultural evolution of science and inventions by leveraging large-scale digitized historical archives and advanced computational methods.
+Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+
