@@ -3,10 +3,10 @@ main:
 #  - title: "Publications"
 #    url: /publications/
 
-  - title: "Research"
-    url: /research/    
+#  - title: "Research"
+#    url: /research/    
 
-  - title: "Current Research"
+  - title: "Research"
     url: /current_research/    
 
   - title: "Publications"
