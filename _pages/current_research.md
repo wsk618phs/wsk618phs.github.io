@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "current_research"
+title: "How do scientists cope with experimental failures?"
 permalink: /current_research/
 author_profile: true
 ---
