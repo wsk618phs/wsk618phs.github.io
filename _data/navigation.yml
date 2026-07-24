@@ -6,8 +6,11 @@ main:
 #  - title: "Research"
 #    url: /research/    
 
+  - title: "OSI-Lab"
+    url: /lab/
+
   - title: "Working Papers"
-    url: /current_research/    
+    url: /current_research/
 
   - title: "Publications"
     url: https://scholar.google.com/citations?user=eU3Gt10AAAAJ&hl=en    
@@ -22,7 +25,7 @@ main:
 #    url: /year-archive/
     
   - title: "CV"
-    url: /files/CV_20231223.pdf
+    url: /files/CV_20260304.pdf
     
 #  - title: "Guide"
 #    url: /markdown/
