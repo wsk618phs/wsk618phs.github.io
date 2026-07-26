@@ -48,12 +48,12 @@ People
     </div>
   </div>
   <div class="lab-person">
-    <img src="/images/lab/moonyul_yang.png" alt="Moonyul Yang">
+    <img src="/images/lab/moonyul_yang.jpg" alt="Moonyul Yang">
     <div>
       <div class="name">Moonyul Yang</div>
       <div class="role">PhD Student</div>
-      <div class="tags"><span class="tag">National Innovation Systems</span><span class="tag">Geopolitics of Technology</span><span class="tag">Intellectual Property</span></div>
-      <div class="bio">Moonyul's research sits at the intersection of interstate conflict and science and technology policy. He studies the formation of international S&amp;T clusters, examining how a state's political regime, intellectual property system, and industrial technology shape technological blocs and patterns of cooperation and competition among nations.</div>
+      <div class="tags"><span class="tag">Technology–Security Nexus</span><span class="tag">Dual-Use Technology</span><span class="tag">Export Controls</span><span class="tag">Defense-Industry Innovation</span><span class="tag">Geopolitical Knowledge Flows</span></div>
+      <div class="bio">Moonyul's research examines the intersection of technology and security. It focuses on how dual-use technologies are defined, measured, and governed, as well as how export-control regimes and geopolitical relations shape their development and diffusion. Combining patent and citation data with computational text analysis, embedding-based retrieval, and LLM-assisted classification, he analyzes these processes across patents, firms, and countries — from defense-industry innovation to cross-national knowledge flows.</div>
       <div class="links"><a href="https://stp.kaist.ac.kr/ph_d_students">STP Profile</a></div>
     </div>
   </div>
